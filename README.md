@@ -12,4 +12,6 @@ Run:
 
 Kết quả là :  **(env) .. api_price_prediction>**
 
+*pip install -r requirement.txt*
+
 *python3 manage.py runserver*
