@@ -5,6 +5,6 @@ import pickle
 
 def predict_price(request):
     loaded_model = pickle.load(open("./api_predict/service/regressor.sav", 'rb'))
-    result = loaded_model.predict(np.ones((1,25)))
+    result = loaded_model.predict(request)
     return result
 
