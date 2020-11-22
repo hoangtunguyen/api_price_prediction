@@ -6,7 +6,7 @@ open terminal *api_price_prediction>*
 
 Run: 
 
-*python3 -m venv env*
+*python -m venv env*
 
 *env\Scripts\activate.bat*
 
