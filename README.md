@@ -1,5 +1,6 @@
 # api_price_prediction
 
+**Pull source code về:**  
 *git clone https://github.com/hoangtunguyen/api_price_prediction.git*
 
 open terminal *api_price_prediction>*
