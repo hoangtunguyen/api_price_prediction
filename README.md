@@ -1,17 +1,20 @@
 # api_price_prediction
 
+**Pull source code về:**  
 *git clone https://github.com/hoangtunguyen/api_price_prediction.git*
 
 open terminal *api_price_prediction>*
 
-Run: 
+Run:
 
-*python3 -m venv env*
-
-*env\Scripts\activate.bat*
+1. Để tạo môi trường ảo:
+- *python -m venv env* 
+2. Để kích hoạt môi trường ảo
+- *env\Scripts\activate.bat* 
 
 Kết quả là :  **(env) .. api_price_prediction>**
 
-*pip install -r requirement.txt*
-
-*python3 manage.py runserver*
+3. Để install tất cả các thư viên trong cần thiết trong file requirement:
+- *pip install -r requirement.txt*  
+4. Để chạy chương trình:
+- *python manage.py runserver* 
